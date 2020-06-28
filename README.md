@@ -1,1 +1,1 @@
-# stepik
+# stepik - Automation testing lessons
